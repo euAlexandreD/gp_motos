@@ -116,10 +116,18 @@ footer {
   }
 }
 
-@media (max-width: 407px) {
+@media (max-width: 415px) {
   .title {
     h1 {
       font-size: 19px;
+    }
+  }
+}
+
+@media (max-width: 390px) {
+  .title {
+    h1 {
+      font-size: 15px;
     }
   }
 }
