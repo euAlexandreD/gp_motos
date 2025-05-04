@@ -116,8 +116,10 @@ footer {
   }
 }
 
-@media (min-width: 738) {
-  body {
-    background-image: url();
+@media (max-width: 407px) {
+  .title {
+    h1 {
+      font-size: 19px;
+    }
   }
 }
